@@ -1,0 +1,14 @@
+﻿  Source.cpp
+Z:\university\ооп\програми\6.4\Source.cpp(49,23): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\university\ооп\програми\6.4\Source.cpp(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Print<int*>(T,size_t)"
+          with
+          [
+              T=int *
+          ]
+Z:\university\ооп\програми\6.4\Source.cpp(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\university\ооп\програми\6.4\Source.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Poriv<int*>(T,size_t)"
+          with
+          [
+              T=int *
+          ]
+  6.4.vcxproj -> Z:\university\ооп\програми\6.4\Debug\6.4.exe
